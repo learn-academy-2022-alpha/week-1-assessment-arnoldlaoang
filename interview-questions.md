@@ -94,4 +94,5 @@ Research and define the following terms to the best of your ability.
 5. Classes:
 
     -Through my research I learned that Classes are used to create objects as a blueprint that manipulates data.
+    //
    -->

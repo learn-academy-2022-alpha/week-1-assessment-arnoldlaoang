@@ -71,3 +71,4 @@
 
 // b) Verify and explain:
     // - The output pulled is number in the array because the typeof operator didn't have a value to return an indicated a string which defaults to the first one which is number.
+    //
